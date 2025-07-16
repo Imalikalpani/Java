@@ -1,1 +1,2 @@
 # Java
+This web application is designed for a supermarket management system using Java Servlets, HTML, CSS, and JavaScript. The backend is powered by Java Servlets to handle server-side logic like product management, customer handling, and order processing. The frontend uses HTML and CSS for layout and styling, while JavaScript enables dynamic interactions such as form validations and real-time updates. This application provides essential features like product listing, cart system, , making supermarket operations efficient and user-friendly.
